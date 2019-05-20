@@ -1,0 +1,33 @@
+body{
+	background-color: #A52A2A;
+	font-family: arial;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+	color: #ffffff
+}
+h1{
+	text-align: center;
+	margin: 0 auto 0 auto;
+	padding: 40px 10px 15px 10px;
+color: #ffffff
+}
+h2{
+	text-align: center;
+	font-size: 26px;
+	color: #ffffff
+}
+
+textarea{
+	width: 100%;
+	height: 9em;
+line-height; 1.6em;}
+header{ line-height: 90%;
+    background-image: url(../images/mfg.jpg);
+	background-repeat: no-repeat;
+	background-position: left;
+	padding-left: 0px; 
+	height: 92px;
+	width: 40%
+	margin-bottom: 0;
+}
